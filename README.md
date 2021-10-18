@@ -1,2 +1,2 @@
 # ApiCatalogoJogos
-Este projeto foi desenvolvido para exemplificar a estrutura de uma API Rest. Ela será utilizada para auxiliar a live que apresentarei na DIO.
+Este projeto foi baseado em um script criado em C# de um teste da Digital Innovation One
